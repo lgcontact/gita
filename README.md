@@ -1,4 +1,4 @@
-# README for git/gita folder
+# README for git/gita material
 
 This is some test bumpf for uploading and cloning from local
 Git to GitHub.
